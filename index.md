@@ -12,3 +12,9 @@ Created H1 Header
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+# Tasks List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
